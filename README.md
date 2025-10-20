@@ -73,8 +73,7 @@ ft_printf/
 
 | File | Description |
 |------|--------------|
-| `ft_printf.c` | Core function: handles format string parsing and dispatching. |
-| `ft_printf_utils.c` | Helper functions for string and number conversions. |
+| `srcs` | Contains the printf implementations
 | `ft_printf.h` | Header file with all prototypes and definitions. |
 | `libft/` | Dependency library containing your Libft functions. |
 | `Makefile` | Automates compilation and library creation. |
