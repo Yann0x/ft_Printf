@@ -63,13 +63,12 @@ This project covers:
 
 ```
 ft_printf/
+├── libft/ [**Yann0x/Libft**](https://github.com/Yann0x/Libft)
 ├── Makefile
-├── ft_printf.c
-├── ft_printf_utils.c
 ├── includes/
-│   └── ft_printf.h
-└── libft/
-    └── (your custom libft library)
+├   └── ft_printf.h
+├── srcs/
+├   └── ft_*.c
 ```
 
 | File | Description |
