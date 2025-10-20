@@ -148,7 +148,6 @@ The **bonus part** of this project introduces:
 
 You can test your ft_printf using popular testers such as:
 - [**Tripouille/printfTester**](https://github.com/Tripouille/printfTester)
-- [**paulo-santana/ft_printf-tester**](https://github.com/paulo-santana/ft_printf-tester)
 
 Clone one of these repositories inside your project and run:
 
@@ -162,7 +161,6 @@ make
 
 ## 📚 Resources
 
-- [42 Subject PDF (ft_printf)](https://projects.intra.42.fr)
 - [C Variadic Functions — GNU Docs](https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html)
 - [printf Reference — C Library](https://cplusplus.com/reference/cstdio/printf/)
 - [Understanding stdarg.h](https://en.cppreference.com/w/c/variadic)
