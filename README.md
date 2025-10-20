@@ -63,7 +63,7 @@ This project covers:
 
 ```
 ft_printf/
-├── libft/ [**Yann0x/Libft**](https://github.com/Yann0x/Libft)
+├── libft/ (https://github.com/Yann0x/Libft)
 ├── Makefile
 ├── includes/
 ├   └── ft_printf.h
